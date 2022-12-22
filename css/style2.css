@@ -1,0 +1,58 @@
+body {
+    width: 100%;
+    height: auto;
+}
+
+.navbar1 {
+    width: 100%;
+    height: auto;
+}
+
+.navbar2 {
+    text-align: center;
+}
+
+tr {
+    border: 2px solid #2B2825;
+    width: 20px;
+}
+
+th {
+    width: 5%;
+    height: auto;
+    color: #FFFFFF;
+    background-color: #2B2825;
+}
+
+td {
+    background-color: #FAF3EB;
+    border: 2px solid #2B2825;
+}
+
+#tname,
+#tprof,
+#tid {
+    width: 50%;
+    background-color: #FAF3EB;
+    border: 1px solid black;
+    padding: 10px;
+    color: black;
+}
+
+#tdesc {
+    width: 50%;
+    height: 20%;
+    background-color: #FAF3EB;
+    border: 1px solid black;
+    padding: 10px;
+    color: black;
+}
+
+#btnsbmt,
+#btndlt {
+    width: 20%;
+    height: 20%;
+    background-color: #E88F2A;
+    padding: 10px;
+    font-weight: bolder;
+}
